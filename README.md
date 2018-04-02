@@ -32,7 +32,7 @@ Used XFYun &amp; BaiduAI speech to text SDK to test which platform has better se
 ## Environment
 - Eclipse 
 - Java 1.8
-- Add fore jars in libs
+- import four jars in libs
 
 ## Add TestExample
 - In File of TestFile
