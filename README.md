@@ -2,7 +2,7 @@
 Used XFYun &amp; BaiduAI speech to text SDK to test which platform has better service.
 -------
 ## TestProject List
-
+```
 ├─.settings
 ├─bin
 │  └─edwardZhangCERTest
@@ -28,7 +28,7 @@ Used XFYun &amp; BaiduAI speech to text SDK to test which platform has better se
 │      ├─8.wav-201804010303620663
 │      └─9.wav-201804010303620678
 └─TestResult
-
+```
 ## Environment
 - Eclipse 
 - Java 1.8
